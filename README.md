@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Daniele Ciccarelli</h1>
+
+<h1 align="center">Hi <img src="https://github.com/mitul3737/mitul3737/blob/main/Wave.gif" height="55px" width="55px"> I'm Daniele Ciccarelli </h1>
 <h3 align="center">A passionate web developer from Italy</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=DonCode86&label=Profile%20views&color=0e75b6&style=flat" alt="danieleciccarelli" /> </p>

@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=DonCode86&label=Profile%20views&color=0e75b6&style=flat" alt="danieleciccarelli" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=DonCode86" alt="danieleciccarelli" /></a> </p>
+<p align="center"> <a href="https://github.com/DonCode86/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=DonCode86" alt="danieleciccarelli" /></a> </p>
 
 - 🔭 I’m currently working on an web app for a travel agency (https://github.com/DonCode86/webapp-travel-agency)
 

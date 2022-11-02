@@ -1,6 +1,13 @@
 
 <h1 align="center">Hi <img src="https://github.com/mitul3737/mitul3737/blob/main/Wave.gif" height="55px" width="55px"> I'm Daniele Ciccarelli </h1>
-<h3 align="center">A passionate web developer from Italy</h3>
+<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+<p align="center">
+<!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"> -->
+    <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=45&lines=Nice+To+Meet+You+...;I'm+a+web+developer+from+Italy;I+hope+you+will+find+my+profile+interesting...&center=true"></a>
+
+</p>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=DonCode86&label=Profile%20views&color=0e75b6&style=flat" alt="danieleciccarelli" /> </p>
 
